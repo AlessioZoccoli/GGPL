@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8754881c-e08a-41a0-9a00-8e20ffa9ea22" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-10-27/images/randpoints.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theoryLessons/2017-10-20/theoryLesson_20171020.ipynb" afterPath="$PROJECT_DIR$/theoryLessons/2017-10-20/lecture06.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-10-30/images/liatorp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-10-30/workshop_02.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb" afterPath="$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,15 +16,26 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ggpl2$ggpl2.coverage" NAME="ggpl2 Coverage Results" MODIFIED="1508783064928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/ggpl$ggpl2.coverage" NAME="ggpl2 Coverage Results" MODIFIED="1509178397783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ggpl$ggpl2.coverage" NAME="ggpl2 Coverage Results" MODIFIED="1509372247218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lecture07b.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb">
+      <file leaf-file-name="workshop_02.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2017-10-30/workshop_02.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="31" />
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -47,10 +58,12 @@
         <option value="$PROJECT_DIR$/2017-10-20/theoryLesson_20171020.ipynb" />
         <option value="$PROJECT_DIR$/2017-10-23/ws_2017_10_23_BACKUP.ipynb" />
         <option value="$PROJECT_DIR$/2017-10-23/workshop_01.ipynb" />
-        <option value="$PROJECT_DIR$/2017-10-23/workshop_1.ipynb" />
         <option value="$PROJECT_DIR$/theoryLessons/2017-10-27/lecture2.ipynb" />
         <option value="$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07.ipynb" />
         <option value="$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb" />
+        <option value="$PROJECT_DIR$/2017-10-30/workshop2.ipynb" />
+        <option value="$PROJECT_DIR$/2017-10-23/workshop_1.ipynb" />
+        <option value="$PROJECT_DIR$/2017-10-30/workshop_02.ipynb" />
       </list>
     </option>
   </component>
@@ -60,10 +73,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1349" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -100,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -111,24 +124,12 @@
             <path>
               <item name="ggpl" type="b2602c69:ProjectViewProjectNode" />
               <item name="ggpl" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-10-23" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ggpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ggpl" type="462c0819:PsiDirectoryNode" />
-              <item name="theoryLessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ggpl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ggpl" type="462c0819:PsiDirectoryNode" />
-              <item name="theoryLessons" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-10-27" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-10-30" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,6 +139,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2017-10-30/images" />
       <recent name="$PROJECT_DIR$/theoryLessons/2017-10-27/images" />
       <recent name="$PROJECT_DIR$/2017-10-23/images" />
       <recent name="$PROJECT_DIR$/2017-10-23" />
@@ -155,8 +157,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jupyter Notebook.ggpl2">
-    <configuration name="ggpl2" type="Python.Ipnb" factoryName="Jupyter Notebook">
+  <component name="RunManager" selected="Jupyter Notebook.ggpl">
+    <configuration name="ggpl" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -206,22 +208,28 @@
       <option name="project" value="LOCAL" />
       <updated>1508864294909</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lecture07">
+      <created>1509178783507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509178783507</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.551645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44378698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.50278443" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34650856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34577113" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3097015" sideWeight="0.4972156" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30721393" sideWeight="0.4972156" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -243,13 +251,63 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="images and format" />
     <MESSAGE value="facade" />
-    <option name="LAST_COMMIT_MESSAGE" value="facade" />
+    <MESSAGE value="lecture07" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2017-10-30/workshop_02.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-10-30/workshop_02.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07b.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -284,25 +342,18 @@
     <entry file="file://$PROJECT_DIR$/2017-10-20/theoryLesson_20171020.ipynb" />
     <entry file="file://$PROJECT_DIR$/2017-10-23/workshop_01_2.ipynb" />
     <entry file="file://$PROJECT_DIR$/2017-10-23/workshop_01.ipynb" />
-    <entry file="file://$PROJECT_DIR$/2017-10-23/workshop_1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture2.ipynb" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-10-27/lecture07.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -310,6 +361,20 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-10-23/workshop_1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-10-30/workshop_02.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
         </state>
       </provider>
     </entry>
