@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8754881c-e08a-41a0-9a00-8e20ffa9ea22" name="Default" comment="" />
+    <list default="true" id="8754881c-e08a-41a0-9a00-8e20ffa9ea22" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/arco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/bezier3d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/bezierS2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/corona.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/plettro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/spiral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/spirale2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theoryLessons/2017-11-13/intervals2Bezier.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-11-06/workshop_03.ipynb" afterPath="$PROJECT_DIR$/2017-11-06/workshop_03.ipynb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ggpl$ggpl.coverage" NAME="ggpl Coverage Results" MODIFIED="1510303591682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ggpl$ggpl.coverage" NAME="ggpl Coverage Results" MODIFIED="1510602015368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ggpl2$ggpl2.coverage" NAME="ggpl2 Coverage Results" MODIFIED="1508783064928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ggpl$ggpl2.coverage" NAME="ggpl2 Coverage Results" MODIFIED="1509372247218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
@@ -30,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="workshop_03.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2017-11-06/workshop_03.ipynb">
+      <file leaf-file-name="intervals2Bezier.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/theoryLessons/2017-11-13/intervals2Bezier.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="44" />
+              <selected id="30" />
             </state>
           </provider>
         </entry>
@@ -69,6 +80,7 @@
         <option value="$PROJECT_DIR$/2017-10-23/workshop_1.ipynb" />
         <option value="$PROJECT_DIR$/2017-10-30/workshop_02.ipynb" />
         <option value="$PROJECT_DIR$/2017-11-06/workshop_03.ipynb" />
+        <option value="$PROJECT_DIR$/theoryLessons/2017-11-13/intervals2Bezier.ipynb" />
       </list>
     </option>
   </component>
@@ -120,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,19 +142,20 @@
             <path>
               <item name="ggpl" type="b2602c69:ProjectViewProjectNode" />
               <item name="ggpl" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-11-06" type="462c0819:PsiDirectoryNode" />
+              <item name="theoryLessons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ggpl" type="b2602c69:ProjectViewProjectNode" />
               <item name="ggpl" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-11-06" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="theoryLessons" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-11-13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,11 +165,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/theoryLessons/2017-11-13" />
       <recent name="$PROJECT_DIR$/2017-11-06/images" />
       <recent name="$PROJECT_DIR$/2017-10-30/images" />
       <recent name="$PROJECT_DIR$/theoryLessons/2017-10-27/images" />
       <recent name="$PROJECT_DIR$/2017-10-23/images" />
-      <recent name="$PROJECT_DIR$/2017-10-23" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,8 +333,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1320" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32785603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33255085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.50278443" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -330,7 +343,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36495388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30566534" sideWeight="0.4972156" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30566534" sideWeight="0.4972156" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -369,6 +382,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2017-11-06/workshop_03.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2017-11-06/workshop_03.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -582,6 +602,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theoryLessons/2017-11-13/intervals2Bezier.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="30" />
         </state>
       </provider>
     </entry>
