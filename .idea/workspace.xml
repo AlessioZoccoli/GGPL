@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8754881c-e08a-41a0-9a00-8e20ffa9ea22" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-13/images/arch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-13/images/columnas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-13/images/columnas_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-13/images/columnas_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/front_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/front_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/inkscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/planimetriaBadoer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/vb_full.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/villabadoer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/yt_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/yt_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/images/yt_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/data/villaBadoerPlant.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2017-11-27/workshop_05.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017-11-13/workshop_04.ipynb" afterPath="$PROJECT_DIR$/2017-11-13/workshop_04.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ggpl$ggpl.coverage" NAME="ggpl Coverage Results" MODIFIED="1511111338652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ggpl$ggpl.coverage" NAME="ggpl Coverage Results" MODIFIED="1512227243695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ggpl2$ggpl2.coverage" NAME="ggpl2 Coverage Results" MODIFIED="1508783064928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ggpl$ggpl2.coverage" NAME="ggpl2 Coverage Results" MODIFIED="1509372247218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
@@ -37,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="workshop_04.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2017-11-13/workshop_04.ipynb">
+      <file leaf-file-name="workshop_05.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2017-11-27/workshop_05.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="16" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
@@ -79,6 +85,7 @@
         <option value="$PROJECT_DIR$/theoryLessons/2017-11-13/intervals2Bezier.ipynb" />
         <option value="$PROJECT_DIR$/2017-11-13/workshop_05.ipynb" />
         <option value="$PROJECT_DIR$/2017-11-13/workshop_04.ipynb" />
+        <option value="$PROJECT_DIR$/2017-11-27/workshop_05.ipynb" />
       </list>
     </option>
   </component>
@@ -142,13 +149,13 @@
             <path>
               <item name="ggpl" type="b2602c69:ProjectViewProjectNode" />
               <item name="ggpl" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-11-13" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-11-27" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ggpl" type="b2602c69:ProjectViewProjectNode" />
               <item name="ggpl" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-11-13" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-11-27" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,11 +170,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2017-11-27/data" />
+      <recent name="$PROJECT_DIR$/2017-11-27/images" />
       <recent name="$PROJECT_DIR$/2017-11-13/images" />
       <recent name="$PROJECT_DIR$/2017-11-13" />
       <recent name="$PROJECT_DIR$/theoryLessons/2017-11-13" />
-      <recent name="$PROJECT_DIR$/2017-11-06/images" />
-      <recent name="$PROJECT_DIR$/2017-10-30/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -331,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511086080322</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Bézier-ized the arch and added some examples for columns">
+      <created>1511112696119</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1511112696119</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -347,17 +361,17 @@
     <frame x="0" y="23" width="1320" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34741783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6775148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.50278443" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36495388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36495388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30566534" sideWeight="0.4972156" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -415,34 +429,14 @@
     <MESSAGE value="complete structure" />
     <MESSAGE value="intervals &amp; bezier" />
     <MESSAGE value="ws structure cleaned" />
-    <option name="LAST_COMMIT_MESSAGE" value="ws structure cleaned" />
+    <MESSAGE value="Bézier-ized the arch and added some examples for columns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bézier-ized the arch and added some examples for columns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2017-11-13/workshop_04.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-11-13/workshop_04.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2017-11-13/workshop_04.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2017-11-13/workshop_04.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -712,6 +706,23 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-11-27/images/villabadoer.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-11-27/images/yt_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017-11-27/workshop_05.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
         </state>
       </provider>
     </entry>
