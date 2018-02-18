@@ -17,7 +17,6 @@
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="floorHoleNOIMM.svg">
 
-
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -26,26 +25,26 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 89.982,93.009002 -0.012,5"
+       d="m 89.97,95.11375 v 2.915252"
        id="path14"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 89.981957,93.009002 H 84.525"
-       id="path16"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 84.524926,93.009002 v 5.02"
-       id="path18"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 84.524926,98.029 5.445072,-0.02"
+       d="m 87.194,98.029 2.775998,2e-6"
        id="path41"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 87.194,98.029 V 95.114002"
+       id="path31"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 87.194,95.114 h 2.775603"
+       id="path33"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
